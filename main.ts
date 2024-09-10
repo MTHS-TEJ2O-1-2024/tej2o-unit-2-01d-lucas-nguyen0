@@ -2,7 +2,7 @@
  *
  * Created by: Lucas Nguyen
  * Created on: Sep 2024
- * This program says Hello, World
+ * This program says Hello, Lucas
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Lucas!')
